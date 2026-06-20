@@ -297,7 +297,7 @@ O painel foi estruturado para permitir uma visão geral do negócio, possibilita
 <h2>Dashboard</h2>
 
 <p align="center">
-  <img src="images/dashboard.png" width="900">
+  <img src="images/imagem_2026-06-20_152637044.png" width="900">
 </p>
 
 Principais indicadores apresentados:
