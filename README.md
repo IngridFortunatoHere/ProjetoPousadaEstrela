@@ -23,13 +23,21 @@ Como estou em processo de transição para a área de dados, busquei desenvolver
 A análise foi desenvolvida para responder questões relevantes para a gestão de uma pousada de médio porte, tais como:
 
 ⋆ Quais períodos do ano concentram o maior volume de reservas?
+
 ⋆ Como a sazonalidade impacta a receita da pousada?
+
 ⋆ Qual é o perfil predominante dos hóspedes?
+
 ⋆ Quais estados e cidades mais enviam visitantes para a região?
+
 ⋆ Quais canais de reserva apresentam melhor desempenho?
+
 ⋆ Qual categoria de quarto possui maior demanda?
+
 ⋆ Como as reservas e o faturamento se distribuem ao longo do ano?
+
 ⋆ Qual é a taxa de cancelamento observada no período analisado?
+
 
 Responder a essas perguntas permite compreender melhor o comportamento dos hóspedes e identificar oportunidades para apoiar a tomada de decisões estratégicas.
 
