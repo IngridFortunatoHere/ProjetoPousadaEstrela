@@ -1,6 +1,7 @@
 ˙⋆✮ Análise de Dados da Pousada Estrela em Maragogi, AL 
 
 
+
 Este projeto foi desenvolvido com o objetivo de aplicar conceitos de Análise de Dados em um cenário inspirado na realidade do turismo de Maragogi, Alagoas, um dos principais destinos turísticos do litoral nordestino.
 Para isso, foi criada uma base de dados fictícia contendo 1.000 reservas distribuídas ao longo de diferentes períodos entre 2024 e 2025, simulando a operação de uma pousada de médio porte com aproximadamente 30 quartos. A modelagem dos dados considerou fatores como sazonalidade, perfil dos hóspedes, origem dos visitantes, canais de reserva, categorias de acomodação e comportamento da demanda turística.
 A partir da utilização de ferramentas de análise e visualização de dados, o projeto busca identificar padrões de ocupação, avaliar o impacto das temporadas sobre a receita, compreender o perfil dos hóspedes e gerar insights que possam auxiliar gestores na tomada de decisões estratégicas.
