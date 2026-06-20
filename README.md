@@ -359,8 +359,6 @@ O painel foi estruturado para permitir uma visão geral do negócio, possibilita
 
 ˙⋆✮ Visão Geral
 
-˙⋆ Dashboard
-
 
 <p align="center">
   <img src="images/imagem_2026-06-20_152637044.png" width="900">
