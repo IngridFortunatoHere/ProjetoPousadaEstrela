@@ -267,7 +267,7 @@ O painel foi estruturado para permitir uma visão geral do negócio, possibilita
 
 <p align="center">
   <img src="images/imagem_2026-06-20_152637044.png" width="1000" alt="Dashboard da Pousada Estrela">
-</p>
+</p> 
 
 ### Indicadores apresentados
 
