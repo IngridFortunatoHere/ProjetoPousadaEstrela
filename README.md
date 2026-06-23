@@ -266,7 +266,7 @@ Com o objetivo de transformar os dados em informações de fácil interpretaçã
 O painel foi estruturado para permitir uma visão geral do negócio, possibilitando a análise de receita, sazonalidade, perfil dos hóspedes, canais de venda e desempenho das categorias de acomodação.
 
 <p align="center">
-  <img src="images/imagem_2026_06_20_152637044.png" width="1000" alt="Dashboard da Pousada Estrela">
+  <img src="images/imagem_2026-06-20_152637044.png" width="1000" alt="Dashboard da Pousada Estrela">
 </p>
 
 ### Indicadores apresentados
